@@ -1,0 +1,67 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1>Buscador de equipos/jugadores</h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{title}}</title>
+{% endblock %}
+ 
+{% block contenido %}
+
+<div class="form_busqueda">
+    <form id="formulario" method="post" action='' class="form-signin">{% csrf_token %}
+        <fieldset class="form-group">
+            <input type="text" name="player_name" id="player_name" placeholder="Palabras clave" />
+            <button class="btn btn-secondary" type="submit">Realizar búsqueda</button>
+        </fieldset class="form-group">
+    </form>
+</div>
+
+<div id="search_results">
+	<h5>Resultados de la búsqueda <i>{{keyword}}</i>:</h5>
+	
+	{% if results %}
+		{% for res in results %}
+		<div id="indv_res">
+				{% if res.imagen %}
+					<img src="{{res.imagen}}" width=80px><a href="/jugador/{{res.id}}">{{res.nombre}}</a>
+				{% elif res.escudo %}
+					<img src="{{res.escudo}}" width=80px><a href="/equipo/{{res.id}}">{{res.nombre}}</a>
+				{% endif %}
+		{% endfor %}
+		</div>
+		
+		<div id="pagina">
+			<nav aria-label="...">
+			{% if results.has_other_pages %}
+			  <ul class="pagination">
+			  	{% if results.has_previous %}
+			    <li class="page-item">
+			      <a class="page-link" href="?page={{results.previous_page_number}}" tabindex="-1">Previous</a>
+			    </li>
+			    {% else %}
+				<li class="page-item disabled">
+			      <a class="page-link" href="#" tabindex="-1">Previous</a>
+			    </li>
+			    {% endif %}
+			    
+			    <li class="page-item"><a class="page-link" href="?page=1">1</a></li>
+			
+			    {% if results.has_next %}
+			    <li class="page-item">
+			      <a class="page-link" href="?page={{results.next_page_number}}">Next</a>
+			    </li>
+			    {% endif %}
+			  </ul>
+			{% endif %}
+			</nav>
+		</div>
+	
+	{% else %}
+		<p>No se han encontrado resultados.</p>
+	{% endif %}
+
+</div>
+
+{% endblock %}

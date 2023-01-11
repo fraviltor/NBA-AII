@@ -1,0 +1,500 @@
+Jayson Tatum,0,24,2.03m,95kg,USA,5,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1628369.png,2017 R1 Pick 3,Forward-Guard
+Noah Vonleh,4,27,2.08m,117kg,USA,7,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/203943.png,2014 R1 Pick 9,Forward
+Jaylen Brown,7,26,1.98m,101kg,USA,6,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1627759.png,2016 R1 Pick 3,Guard-Forward
+Danilo Gallinari,8,34,2.08m,107kg,Italy,13,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/201568.png,2008 R1 Pick 6,Forward
+Derrick White,9,28,1.93m,86kg,USA,5,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1628401.png,2017 R1 Pick 29,Guard
+Payton Pritchard,11,24,1.85m,88kg,USA,2,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1630202.png,2020 R1 Pick 26,Guard
+Grant Williams,12,24,1.98m,107kg,USA,3,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1629684.png,2019 R1 Pick 22,Forward
+Malcolm Brogdon,13,30,1.93m,104kg,USA,6,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1627763.png,2016 R2 Pick 36,Guard
+JD Davison,20,20,1.85m,88kg,USA,0,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1631120.png,2022 R2 Pick 53,Guard
+Mfiondu Kabengele,28,25,2.08m,113kg,Canada,2,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1629662.png,2019 R1 Pick 27,Center
+Sam Hauser,30,25,2.01m,98kg,USA,1,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1630573.png,Undrafted,Forward
+Marcus Smart,36,28,1.93m,100kg,USA,8,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/203935.png,2014 R1 Pick 6,Guard
+Luke Kornet,40,27,2.18m,113kg,USA,5,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1628436.png,Undrafted,Center-Forward
+Al Horford,42,36,2.06m,109kg,Dominican Republic,15,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/201143.png,2007 R1 Pick 3,Center-Forward
+Justin Jackson,43,27,2.03m,100kg,USA,5,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1628382.png,2017 R1 Pick 15,Forward
+Robert Williams III,44,25,2.06m,108kg,USA,4,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/1629057.png,2018 R1 Pick 27,Center-Forward
+Blake Griffin,91,33,2.06m,113kg,USA,12,Boston Celtics,https://cdn.nba.com/headshots/nba/latest/1040x760/201933.png,2009 R1 Pick 1,Forward
+Royce O'Neale,0,29,1.98m,103kg,USA,5,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1626220.png,Undrafted,Forward
+T.J. Warren,1,29,2.03m,100kg,USA,7,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/203933.png,2014 R1 Pick 14,Forward
+Edmond Sumner,4,26,1.93m,89kg,USA,4,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628410.png,2017 R2 Pick 52,Guard
+David Duke Jr.,6,23,1.93m,93kg,USA,1,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630561.png,Undrafted,Guard
+Kevin Durant,7,34,2.08m,109kg,USA,14,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/201142.png,2007 R1 Pick 2,Forward
+Patty Mills,8,34,1.83m,82kg,Australia,13,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/201988.png,2009 R2 Pick 55,Guard
+Ben Simmons,10,26,2.08m,109kg,Australia,4,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1627732.png,2016 R1 Pick 1,Guard-Forward
+Kyrie Irving,11,30,1.88m,88kg,Australia,11,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/202681.png,2011 R1 Pick 1,Guard
+Joe Harris,12,31,1.98m,100kg,USA,8,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/203925.png,2014 R2 Pick 33,Guard-Forward
+Markieff Morris,13,33,2.06m,111kg,USA,11,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/202693.png,2011 R1 Pick 13,Forward
+Kessler Edwards,14,22,2.01m,92kg,USA,1,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630556.png,2021 R2 Pick 44,Forward
+Yuta Watanabe,18,28,2.03m,98kg,Japan,4,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629139.png,Undrafted,Guard-Forward
+Day'Ron Sharpe,20,21,2.06m,120kg,USA,1,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630549.png,2021 R1 Pick 29,Center
+Cam Thomas,24,21,1.91m,95kg,Japan,1,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630560.png,2021 R1 Pick 27,Guard
+Seth Curry,30,32,1.85m,84kg,USA,8,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/203552.png,Undrafted,Guard
+Alondes Williams,31,23,1.93m,95kg,USA,0,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631214.png,Undrafted,Guard
+Nic Claxton,33,23,2.11m,98kg,USA,3,Brooklyn Nets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629651.png,2019 R2 Pick 31,Center
+Cam Reddish,0,23,2.01m,98kg,USA,3,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629629.png,2019 R1 Pick 10,Forward-Guard
+Obi Toppin,1,24,2.06m,100kg,USA,2,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630167.png,2020 R1 Pick 8,Forward
+Miles McBride,2,22,1.88m,88kg,USA,1,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630540.png,2021 R2 Pick 36,Guard
+Trevor Keels,3,19,1.93m,100kg,USA,0,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1631211.png,2022 R2 Pick 42,Guard
+Derrick Rose,4,34,1.91m,91kg,USA,13,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/201565.png,2008 R1 Pick 1,Guard
+Immanuel Quickley,5,23,1.88m,86kg,USA,2,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630193.png,2020 R1 Pick 25,Guard
+Quentin Grimes,6,22,1.96m,95kg,USA,1,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629656.png,2021 R1 Pick 25,Guard
+DaQuan Jeffries,8,25,1.96m,101kg,USA,3,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629610.png,Undrafted,Guard-Forward
+RJ Barrett,9,22,1.98m,97kg,Canada,3,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629628.png,2019 R1 Pick 3,Forward-Guard
+Jalen Brunson,11,26,1.88m,86kg,USA,4,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628973.png,2018 R2 Pick 33,Guard
+Evan Fournier,13,30,1.98m,93kg,France,10,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/203095.png,2012 R1 Pick 20,Guard-Forward
+Svi Mykhailiuk,17,25,2.01m,93kg,Ukraine,4,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629004.png,2018 R2 Pick 47,Guard-Forward
+Mitchell Robinson,23,24,2.13m,109kg,USA,4,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629011.png,2018 R2 Pick 36,Center-Forward
+Julius Randle,30,28,2.03m,113kg,USA,8,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/203944.png,2014 R1 Pick 7,Forward-Center
+Jericho Sims,45,24,2.08m,113kg,USA,1,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630579.png,2021 R2 Pick 58,Center
+Ryan Arcidiacono,51,28,1.91m,88kg,USA,5,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1627853.png,Undrafted,Guard
+Isaiah Hartenstein,55,24,2.13m,113kg,Germany,4,New York Knicks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628392.png,2017 R2 Pick 43,Center-Forward
+Tyrese Maxey,0,22,1.88m,91kg,USA,2,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630178.png,2020 R1 Pick 21,Guard
+James Harden,1,33,1.96m,100kg,USA,13,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/201935.png,2009 R1 Pick 3,Guard
+Montrezl Harrell,5,28,2.01m,109kg,USA,7,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1626149.png,2015 R2 Pick 32,Forward-Center
+De'Anthony Melton,8,24,1.88m,91kg,USA,4,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629001.png,2018 R2 Pick 46,Guard
+Jaden Springer,11,20,1.93m,92kg,USA,1,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630531.png,2021 R1 Pick 28,Guard
+Tobias Harris,12,30,2.01m,103kg,USA,11,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/202699.png,2011 R1 Pick 19,Forward
+P.J. Tucker,17,37,1.96m,111kg,USA,11,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/200782.png,2006 R2 Pick 35,Forward
+Shake Milton,18,26,1.96m,93kg,USA,4,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629003.png,2018 R2 Pick 54,Guard-Forward
+Georges Niang,20,29,2.01m,104kg,USA,6,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627777.png,2016 R2 Pick 50,Forward
+Joel Embiid,21,28,2.13m,127kg,Cameroon,6,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/203954.png,2014 R1 Pick 3,Center-Forward
+Matisse Thybulle,22,25,1.96m,91kg,USA,3,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629680.png,2019 R1 Pick 20,Guard-Forward
+Louis King,23,23,2.01m,93kg,USA,3,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629663.png,Undrafted,Forward
+Danuel House Jr.,25,29,1.98m,100kg,USA,6,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627863.png,Undrafted,Forward-Guard
+Furkan Korkmaz,30,25,2.01m,92kg,Turkey,5,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627788.png,2016 R1 Pick 26,Guard-Forward
+Paul Reed,44,23,2.06m,95kg,USA,2,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630194.png,2020 R2 Pick 58,Forward
+Julian Champagnie,55,21,2.01m,98kg,USA,0,Philadelphia 76ers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630577.png,Undrafted,Forward
+O.G. Anunoby,3,25,2.01m,105kg,United Kingdom,5,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1628384.png,2017 R1 Pick 23,Forward
+Scottie Barnes,4,21,2.03m,102kg,USA,1,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630567.png,2021 R1 Pick 4,Forward
+Precious Achiuwa,5,23,2.03m,102kg,Nigeria,2,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630173.png,2020 R1 Pick 20,Forward
+Ron Harper Jr.,8,22,1.96m,111kg,USA,0,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1631199.png,Undrafted,Forward
+Justin Champagnie,11,21,1.98m,93kg,USA,1,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630551.png,Undrafted,Guard-Forward
+Jeff Dowtin Jr.,20,25,1.91m,80kg,USA,1,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630288.png,Undrafted,Guard
+Thaddeus Young,21,34,2.03m,107kg,USA,15,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/201152.png,2007 R1 Pick 12,Forward
+Malachi Flynn,22,24,1.85m,79kg,USA,2,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630201.png,2020 R1 Pick 29,Guard
+Fred VanVleet,23,28,1.83m,89kg,USA,6,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1627832.png,Undrafted,Guard
+Khem Birch,24,30,2.03m,106kg,Canada,5,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/203920.png,Undrafted,Center
+Chris Boucher,25,29,2.06m,91kg,Saint Lucia,5,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1628449.png,Undrafted,Forward-Center
+Otto Porter Jr.,32,29,2.03m,90kg,USA,9,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/203490.png,2013 R1 Pick 3,Forward
+Gary Trent Jr.,33,23,1.96m,95kg,USA,4,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1629018.png,2018 R2 Pick 37,Guard-Forward
+Christian Koloko,35,22,2.13m,104kg,Cameroon,0,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1631132.png,2022 R2 Pick 33,Center
+Juancho Hernangomez,41,27,2.06m,97kg,Spain,6,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1627823.png,2016 R1 Pick 15,Forward
+Pascal Siakam,43,28,2.03m,104kg,Cameroon,6,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1627783.png,2016 R1 Pick 27,Forward
+Dalano Banton,45,23,2.01m,93kg,Canada,1,Toronto Raptors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630625.png,2021 R2 Pick 46,Forward
+Coby White,0,22,1.96m,88kg,USA,3,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1629632.png,2019 R1 Pick 7,Guard
+Lonzo Ball,2,25,1.98m,86kg,USA,5,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1628366.png,2017 R1 Pick 2,Guard
+Andre Drummond,3,29,2.11m,127kg,USA,10,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/203083.png,2012 R1 Pick 9,Center
+Derrick Jones Jr.,5,25,1.98m,95kg,USA,6,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1627884.png,Undrafted,Forward
+Alex Caruso,6,28,1.96m,84kg,USA,5,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1627936.png,Undrafted,Guard
+Goran Dragic,7,36,1.93m,86kg,Slovenia,14,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/201609.png,2008 R2 Pick 45,Guard
+Zach LaVine,8,27,1.96m,91kg,USA,8,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/203897.png,2014 R1 Pick 13,Guard-Forward
+Nikola Vucevic,9,32,2.08m,118kg,Montenegro,11,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/202696.png,2011 R1 Pick 16,Center
+DeMar DeRozan,11,33,1.98m,100kg,USA,13,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/201942.png,2009 R1 Pick 9,Guard-Forward
+Ayo Dosunmu,12,22,1.96m,91kg,USA,1,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1630245.png,2021 R2 Pick 38,Guard
+Tony Bradley,13,24,2.11m,112kg,USA,5,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1628396.png,2017 R1 Pick 28,Center-Forward
+Malcolm Hill,14,27,1.98m,100kg,USA,1,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1630792.png,Undrafted,Forward
+Marko Simonovic,19,23,2.13m,100kg,Montenegro,1,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1630250.png,2020 R2 Pick 44,Center
+Carlik Jones,22,25,1.83m,79kg,USA,1,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1630637.png,Undrafted,Guard
+Javonte Green,24,29,1.96m,93kg,USA,3,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1629750.png,Undrafted,Guard-Forward
+Dalen Terry,25,20,2.01m,88kg,USA,0,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1631207.png,2022 R1 Pick 18,Forward
+Patrick Williams,44,21,2.01m,98kg,USA,2,Chicago Bulls,https://cdn.nba.com/headshots/nba/latest/1040x760/1630172.png,2020 R1 Pick 4,Forward
+Kevin Love,0,34,2.03m,114kg,USA,14,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/201567.png,2008 R1 Pick 5,Forward-Center
+Caris LeVert,3,28,1.98m,93kg,USA,6,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627747.png,2016 R1 Pick 20,Guard
+Evan Mobley,4,21,2.11m,98kg,USA,1,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630596.png,2021 R1 Pick 3,Center
+Lamar Stevens,8,25,1.98m,104kg,USA,2,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630205.png,Undrafted,Forward
+Dylan Windler,9,26,2.01m,89kg,USA,2,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629685.png,2019 R1 Pick 26,Guard-Forward
+Darius Garland,10,22,1.85m,87kg,USA,3,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629636.png,2019 R1 Pick 5,Guard
+Ricky Rubio,13,32,1.88m,86kg,Spain,11,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/201937.png,2009 R1 Pick 5,Guard
+Isaiah Mobley,15,23,2.03m,108kg,USA,0,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630600.png,2022 R2 Pick 49,Forward
+Cedi Osman,16,27,2.01m,104kg,Turkey,5,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1626224.png,2015 R2 Pick 31,Forward
+Raul Neto,19,30,1.88m,82kg,Brazil,7,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/203526.png,2013 R2 Pick 47,Guard
+Mamadi Diakite,21,25,2.06m,103kg,Guinea,2,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629603.png,Undrafted,Forward
+Jarrett Allen,31,24,2.06m,110kg,USA,5,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628386.png,2017 R1 Pick 22,Center
+Dean Wade,32,26,2.06m,103kg,USA,3,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629731.png,Undrafted,Forward-Center
+Robin Lopez,33,34,2.13m,127kg,USA,14,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/201577.png,2008 R1 Pick 15,Center
+Isaac Okoro,35,21,1.96m,102kg,USA,2,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630171.png,2020 R1 Pick 5,Forward-Guard
+Donovan Mitchell,45,26,1.85m,98kg,USA,5,Cleveland Cavaliers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628378.png,2017 R1 Pick 13,Guard
+Jalen Duren,0,19,2.11m,113kg,USA,0,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1631105.png,2022 R1 Pick 13,Center
+Cade Cunningham,2,21,2.01m,100kg,USA,1,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1630595.png,2021 R1 Pick 1,Guard
+Nerlens Noel,3,28,2.08m,100kg,USA,8,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/203457.png,2013 R1 Pick 6,Center-Forward
+Alec Burks,5,31,1.98m,97kg,USA,11,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/202692.png,2011 R1 Pick 12,Guard
+Hamidou Diallo,6,24,1.96m,92kg,USA,4,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1628977.png,2018 R2 Pick 45,Guard
+Killian Hayes,7,21,1.96m,88kg,France,2,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1630165.png,2020 R1 Pick 7,Guard
+Isaiah Livers,12,24,1.98m,105kg,USA,1,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1630587.png,2021 R2 Pick 42,Forward
+Rodney McGruder,17,31,1.93m,93kg,USA,6,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/203585.png,Undrafted,Guard
+Cory Joseph,18,31,1.91m,91kg,Canada,11,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/202709.png,2011 R1 Pick 29,Guard
+Kevin Knox II,20,23,2.01m,98kg,USA,4,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1628995.png,2018 R1 Pick 9,Forward
+Jaden Ivey,23,20,1.93m,88kg,USA,0,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1631093.png,2022 R1 Pick 5,Guard
+Buddy Boeheim,27,23,1.98m,93kg,USA,0,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1631205.png,Undrafted,Forward
+Isaiah Stewart,28,21,2.03m,113kg,USA,2,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1630191.png,2020 R1 Pick 16,Forward-Center
+Marvin Bagley III,35,23,2.08m,107kg,USA,4,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1628963.png,2018 R1 Pick 2,Forward
+Saddiq Bey,41,23,2.01m,98kg,USA,2,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1630180.png,2020 R1 Pick 19,Forward
+Jared Rhoden,42,23,1.98m,95kg,USA,0,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/1631197.png,Undrafted,Guard
+Bojan Bogdanovic,44,33,2.01m,103kg,Croatia,8,Detroit Pistons,https://cdn.nba.com/headshots/nba/latest/1040x760/202711.png,2011 R2 Pick 31,Forward
+Tyrese Haliburton,0,22,1.96m,84kg,USA,2,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630169.png,2020 R1 Pick 12,Guard
+Bennedict Mathurin,0,20,1.96m,95kg,Canada,0,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631097.png,2022 R1 Pick 6,Guard-Forward
+Andrew Nembhard,2,22,1.91m,87kg,Canada,0,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629614.png,2022 R2 Pick 31,Guard-Forward
+Chris Duarte,3,25,1.96m,86kg,Dominican Republic,1,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630537.png,2021 R1 Pick 13,Guard
+Trevelin Queen,8,25,1.98m,86kg,USA,1,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630243.png,Undrafted,Guard
+T.J. McConnell,9,30,1.85m,86kg,USA,7,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/204456.png,2015 ,Guard
+Kendall Brown,10,19,2.01m,93kg,USA,0,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631112.png,2022 R2 Pick 48,Guard
+Oshae Brissett,12,24,2.01m,95kg,Canada,3,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629052.png,Undrafted,Forward-Guard
+James Johnson,16,35,2.01m,109kg,USA,13,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/201949.png,2009 R1 Pick 16,Forward
+Terry Taylor,21,23,1.93m,104kg,USA,1,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630678.png,Undrafted,Forward
+Isaiah Jackson,22,20,2.06m,93kg,USA,1,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630543.png,2021 R1 Pick 22,Forward
+Aaron Nesmith,23,23,1.96m,98kg,USA,2,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630174.png,2020 R1 Pick 14,Guard-Forward
+Buddy Hield,24,30,1.93m,100kg,Bahamas,6,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627741.png,2016 R1 Pick 6,Guard
+Jalen Smith,25,22,2.06m,98kg,USA,2,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630188.png,2020 R1 Pick 10,Forward-Center
+Daniel Theis,27,30,2.03m,111kg,Germany,5,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628464.png,Undrafted,Forward-Center
+Myles Turner,33,26,2.11m,113kg,USA,7,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1626167.png,2015 R1 Pick 11,Center-Forward
+Goga Bitadze,88,23,2.11m,113kg,Georgia,3,Indiana Pacers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629048.png,2019 R1 Pick 18,Center-Forward
+MarJon Beauchamp,0,22,2.01m,90kg,USA,0,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630699.png,2022 R1 Pick 24,Forward
+George Hill,3,36,1.93m,85kg,USA,14,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/201588.png,2008 R1 Pick 26,Guard
+Jevon Carter,5,27,1.85m,91kg,USA,4,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628975.png,2018 R2 Pick 32,Guard
+Joe Ingles,7,35,2.06m,100kg,Australia,8,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/204060.png,Undrafted,Forward-Guard
+Bobby Portis,9,27,2.11m,113kg,USA,7,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1626171.png,2015 R1 Pick 22,Forward
+Brook Lopez,11,34,2.16m,128kg,USA,14,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/201572.png,2008 R1 Pick 10,Center
+Grayson Allen,12,27,1.93m,90kg,USA,4,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628960.png,2018 R1 Pick 21,Guard
+Jordan Nwora,13,24,2.06m,102kg,USA,2,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629670.png,2020 R2 Pick 45,Forward
+AJ Green,20,23,1.96m,86kg,USA,0,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1631260.png,Undrafted,Guard
+Jrue Holiday,21,32,1.96m,93kg,USA,13,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/201950.png,2009 R1 Pick 17,Guard
+Khris Middleton,22,31,2.01m,101kg,USA,10,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/203114.png,2012 R2 Pick 39,Forward
+Wesley Matthews,23,36,1.96m,100kg,USA,13,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/202083.png,Undrafted,Guard
+Pat Connaughton,24,29,1.96m,95kg,USA,7,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1626192.png,2015 R2 Pick 41,Guard
+Serge Ibaka,25,33,2.11m,107kg,Spain,13,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/201586.png,2008 R1 Pick 24,Forward
+Giannis Antetokounmpo,34,28,2.13m,110kg,Greece,9,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/203507.png,2013 R1 Pick 15,Forward
+Thanasis Antetokounmpo,43,30,2.01m,99kg,Greece,4,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/203648.png,2014 R2 Pick 51,Forward
+Sandro Mamukelashvili,54,23,2.08m,109kg,Georgia,1,Milwaukee Bucks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630572.png,2021 R2 Pick 54,Forward-Center
+Frank Kaminsky,0,29,2.13m,109kg,USA,7,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1626163.png,2015 R1 Pick 9,Forward-Center
+Jalen Johnson,1,21,2.03m,99kg,USA,1,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630552.png,2021 R1 Pick 20,Forward
+Trent Forrest,2,24,1.93m,95kg,USA,2,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630235.png,Undrafted,Guard
+Aaron Holiday,3,26,1.83m,84kg,USA,4,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628988.png,2018 R1 Pick 23,Guard
+Dejounte Murray,5,26,1.96m,82kg,USA,5,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1627749.png,2016 R1 Pick 29,Guard
+Jarrett Culver,7,23,1.98m,88kg,USA,3,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629633.png,2019 R1 Pick 6,Guard-Forward
+Justin Holiday,8,33,1.98m,82kg,USA,9,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/203200.png,Undrafted,Forward-Guard
+Trae Young,11,24,1.85m,74kg,USA,4,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629027.png,2018 R1 Pick 5,Guard
+De'Andre Hunter,12,25,2.03m,100kg,USA,3,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629631.png,2019 R1 Pick 4,Forward-Guard
+Bogdan Bogdanovic,13,30,1.96m,102kg,Serbia,5,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/203992.png,2014 R1 Pick 27,Guard
+AJ Griffin,14,19,1.98m,100kg,USA,0,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1631100.png,2022 R1 Pick 16,Forward
+Clint Capela,15,28,2.08m,116kg,Switzerland,8,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/203991.png,2014 R1 Pick 25,Center
+Onyeka Okongwu,17,22,2.06m,109kg,USA,2,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630168.png,2020 R1 Pick 6,Forward-Center
+John Collins,20,25,2.06m,103kg,USA,5,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628381.png,2017 R1 Pick 19,Forward-Center
+Tyrese Martin,22,23,1.98m,98kg,USA,0,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1631213.png,2022 R2 Pick 51,Guard
+Vit Krejci,27,22,2.03m,88kg,Czech Republic,1,Atlanta Hawks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630249.png,2020 R2 Pick 37,Guard
+LaMelo Ball,1,21,2.01m,82kg,USA,2,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630163.png,2020 R1 Pick 3,Guard
+James Bouknight,2,22,1.93m,86kg,USA,1,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630547.png,2021 R1 Pick 11,Guard
+Terry Rozier,3,28,1.85m,86kg,USA,7,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1626179.png,2015 R1 Pick 16,Guard
+Nick Richards,4,25,2.13m,111kg,Jamaica,2,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630208.png,2020 R2 Pick 42,Center
+Mark Williams,5,21,2.13m,109kg,USA,0,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631109.png,2022 R1 Pick 15,Center
+Jalen McDaniels,6,24,2.06m,93kg,USA,3,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629667.png,2019 R2 Pick 52,Forward-Center
+Bryce McGowens,7,20,1.98m,79kg,USA,0,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631121.png,2022 R2 Pick 40,Guard
+Dennis Smith Jr.,8,25,1.88m,93kg,USA,5,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628372.png,2017 R1 Pick 9,Guard
+Theo Maledon,9,21,1.96m,79kg,France,2,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630177.png,2020 R2 Pick 34,Guard
+Cody Martin,11,27,1.98m,93kg,USA,3,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628998.png,2019 R2 Pick 36,Forward
+Kelly Oubre Jr.,12,27,1.98m,92kg,USA,7,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1626162.png,2015 R1 Pick 15,Forward-Guard
+Gordon Hayward,20,32,2.01m,102kg,USA,12,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/202330.png,2010 R1 Pick 9,Forward
+JT Thor,21,20,2.06m,92kg,USA,1,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630550.png,2021 R2 Pick 37,Forward
+Kai Jones,23,21,2.11m,100kg,Bahamas,1,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630539.png,2021 R1 Pick 19,Center-Forward
+Mason Plumlee,24,32,2.13m,115kg,USA,9,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/203486.png,2013 R1 Pick 22,Forward-Center
+P.J. Washington,25,24,2.01m,104kg,USA,3,Charlotte Hornets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629023.png,2019 R1 Pick 12,Forward
+Gabe Vincent,2,26,1.88m,91kg,USA,3,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1629216.png,Undrafted,Guard
+Victor Oladipo,4,30,1.91m,97kg,USA,9,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/203506.png,2013 R1 Pick 2,Guard
+Nikola Jovic,5,19,2.08m,93kg,Serbia,0,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1631107.png,2022 R1 Pick 27,Forward
+Kyle Lowry,7,36,1.83m,89kg,USA,16,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/200768.png,2006 R1 Pick 24,Guard
+Jamal Cain,8,23,1.98m,87kg,USA,0,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1631288.png,Undrafted,Forward
+Bam Adebayo,13,25,2.06m,116kg,USA,5,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1628389.png,2017 R1 Pick 14,Center-Forward
+Tyler Herro,14,22,1.96m,88kg,USA,3,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1629639.png,2019 R1 Pick 13,Guard
+Caleb Martin,16,27,1.96m,93kg,USA,3,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1628997.png,Undrafted,Forward
+Dewayne Dedmon,21,33,2.08m,111kg,USA,9,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/203473.png,Undrafted,Center
+Jimmy Butler,22,33,2.01m,104kg,USA,11,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/202710.png,2011 R1 Pick 30,Forward
+Haywood Highsmith,24,26,1.96m,100kg,USA,2,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1629312.png,2018 ,Forward
+Orlando Robinson,25,22,2.08m,107kg,USA,0,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1631115.png,Undrafted,Center
+Max Strus,31,26,1.96m,98kg,USA,3,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1629622.png,Undrafted,Guard-Forward
+Udonis Haslem,40,42,2.01m,107kg,USA,19,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/2617.png,Undrafted,Forward
+Duncan Robinson,55,28,2.01m,98kg,USA,4,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1629130.png,Undrafted,Forward
+Omer Yurtseven,77,24,2.11m,125kg,Turkey,1,Miami Heat,https://cdn.nba.com/headshots/nba/latest/1040x760/1630209.png,Undrafted,Center
+Jonathan Isaac,1,25,2.08m,104kg,USA,3,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1628371.png,2017 R1 Pick 6,Forward
+Caleb Houstan,2,19,2.03m,93kg,Canada,0,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1631216.png,2022 R2 Pick 32,Guard
+Chuma Okeke,3,24,2.03m,104kg,USA,2,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1629643.png,2019 R1 Pick 16,Forward
+Jalen Suggs,4,21,1.96m,93kg,USA,1,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1630591.png,2021 R1 Pick 5,Guard
+Paolo Banchero,5,20,2.08m,113kg,USA,0,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1631094.png,2022 R1 Pick 1,Forward
+Kevon Harris,7,25,1.98m,98kg,USA,0,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1630284.png,Undrafted,Guard
+Bol Bol,10,23,2.18m,100kg,Sudan,3,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1629626.png,2019 R2 Pick 44,Center-Forward
+Mo Bamba,11,24,2.13m,105kg,USA,4,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1628964.png,2018 R1 Pick 6,Center
+R.J. Hampton,13,21,1.93m,79kg,USA,2,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1630181.png,2020 R1 Pick 24,Guard
+Gary Harris,14,28,1.93m,95kg,USA,8,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/203914.png,2014 R1 Pick 19,Guard
+Markelle Fultz,20,24,1.93m,95kg,USA,5,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1628365.png,2017 R1 Pick 1,Guard
+Moritz Wagner,21,25,2.11m,111kg,Germany,4,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1629021.png,2018 R1 Pick 25,Forward-Center
+Franz Wagner,22,21,2.08m,100kg,Germany,1,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1630532.png,2021 R1 Pick 8,Forward
+Admiral Schofield,25,25,1.96m,109kg,United Kingdom,2,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1629678.png,2019 R2 Pick 42,Forward
+Terrence Ross,31,31,2.01m,93kg,USA,10,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/203082.png,2012 R1 Pick 8,Guard-Forward
+Wendell Carter Jr.,34,23,2.08m,122kg,USA,4,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1628976.png,2018 R1 Pick 7,Center-Forward
+Cole Anthony,50,22,1.91m,84kg,USA,2,Orlando Magic,https://cdn.nba.com/headshots/nba/latest/1040x760/1630175.png,2020 R1 Pick 15,Guard
+Johnny Davis,1,20,1.93m,88kg,USA,0,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1631098.png,2022 R1 Pick 10,Guard
+Bradley Beal,3,29,1.93m,94kg,USA,10,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/203078.png,2012 R1 Pick 3,Guard
+Devon Dotson,3,23,1.85m,84kg,USA,2,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1629653.png,Undrafted,Guard
+Will Barton,5,31,1.96m,82kg,USA,10,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/203115.png,2012 R2 Pick 40,Guard
+Kristaps Porzingis,6,27,2.21m,109kg,Latvia,6,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/204001.png,2015 R1 Pick 4,Forward-Center
+Jordan Goodwin,7,24,1.91m,91kg,USA,1,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1630692.png,Undrafted,Guard
+Rui Hachimura,8,24,2.03m,104kg,Japan,3,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1629060.png,2019 R1 Pick 9,Forward
+Deni Avdija,9,21,2.06m,95kg,Israel,2,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1630166.png,2020 R1 Pick 9,Forward
+Vernon Carey Jr.,13,21,2.08m,122kg,USA,2,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1630176.png,2020 R2 Pick 32,Forward-Center
+Isaiah Todd,14,21,2.06m,99kg,USA,1,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1630225.png,2021 R2 Pick 31,Forward
+Anthony Gill,16,30,2.03m,104kg,USA,2,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1630264.png,Undrafted,Forward
+Daniel Gafford,21,24,2.08m,106kg,USA,3,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1629655.png,2019 R2 Pick 38,Forward-Center
+Monte Morris,22,27,1.88m,83kg,USA,5,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1628420.png,2017 R2 Pick 51,Guard
+Corey Kispert,24,23,1.98m,102kg,USA,1,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1630557.png,2021 R1 Pick 15,Forward
+Kyle Kuzma,33,27,2.06m,100kg,USA,5,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1628398.png,2017 R1 Pick 27,Forward
+Delon Wright,55,30,1.96m,84kg,USA,7,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/1626153.png,2015 R1 Pick 20,Guard
+Taj Gibson,67,37,2.06m,105kg,USA,13,Washington Wizards,https://cdn.nba.com/headshots/nba/latest/1040x760/201959.png,2009 R1 Pick 26,Forward
+Christian Braun,0,21,1.98m,100kg,USA,0,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631128.png,2022 R1 Pick 21,Guard
+Michael Porter Jr.,1,24,2.08m,99kg,USA,3,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629008.png,2018 R1 Pick 14,Forward
+Bones Hyland,3,22,1.88m,77kg,USA,1,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630538.png,2021 R1 Pick 26,Guard
+Kentavious Caldwell-Pope,5,29,1.96m,93kg,USA,9,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/203484.png,2013 R1 Pick 8,Guard
+DeAndre Jordan,6,34,2.11m,120kg,USA,14,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/201599.png,2008 R2 Pick 35,Center
+Peyton Watson,8,20,2.01m,91kg,USA,0,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631212.png,2022 R1 Pick 30,Guard
+Davon Reed,9,27,1.96m,93kg,USA,3,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628432.png,2017 R2 Pick 32,Guard
+Jack White,10,25,2.01m,102kg,Australia,0,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631298.png,Undrafted,Forward
+Bruce Brown,11,26,1.93m,92kg,USA,4,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628971.png,2018 R2 Pick 42,Guard-Forward
+Ish Smith,14,34,1.83m,79kg,USA,12,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/202397.png,Undrafted,Guard
+Nikola Jokic,15,27,2.11m,129kg,Serbia,7,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/203999.png,2014 R2 Pick 41,Center
+Collin Gillespie,21,23,1.85m,88kg,USA,0,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631221.png,Undrafted,Guard
+Zeke Nnaji,22,21,2.06m,109kg,USA,2,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630192.png,2020 R1 Pick 22,Forward-Center
+Jamal Murray,27,25,1.93m,98kg,Canada,5,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1627750.png,2016 R1 Pick 7,Guard
+Vlatko Cancar,31,25,2.03m,107kg,Slovenia,3,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628427.png,2017 R2 Pick 49,Forward
+Jeff Green,32,36,2.03m,107kg,USA,14,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/201145.png,2007 R1 Pick 5,Forward
+Aaron Gordon,50,27,2.03m,107kg,USA,8,Denver Nuggets,https://cdn.nba.com/headshots/nba/latest/1040x760/203932.png,2014 R1 Pick 4,Forward
+D'Angelo Russell,0,26,1.93m,88kg,USA,7,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1626156.png,2015 R1 Pick 2,Guard
+Anthony Edwards,1,21,1.93m,102kg,USA,2,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1630162.png,2020 R1 Pick 1,Guard
+Jaden McDaniels,3,22,2.06m,84kg,USA,2,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1630183.png,2020 R1 Pick 28,Forward
+Jaylen Nowell,4,23,1.93m,91kg,USA,3,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1629669.png,2019 R2 Pick 43,Guard
+Kyle Anderson,5,29,2.06m,104kg,USA,8,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/203937.png,2014 R1 Pick 30,Forward-Guard
+Jordan McLaughlin,6,26,1.83m,84kg,USA,3,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1629162.png,Undrafted,Guard
+Wendell Moore Jr.,7,21,1.96m,98kg,USA,0,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1631111.png,2022 R1 Pick 26,Guard
+Josh Minott,8,20,2.03m,93kg,USA,0,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1631169.png,2022 R2 Pick 45,Forward
+Bryn Forbes,10,29,1.88m,93kg,USA,6,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1627854.png,Undrafted,Guard
+Naz Reid,11,23,2.06m,120kg,USA,3,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1629675.png,Undrafted,Center-Forward
+Taurean Prince,12,28,1.98m,99kg,USA,6,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1627752.png,2016 R1 Pick 12,Forward
+Nathan Knight,13,25,2.03m,115kg,USA,2,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1630233.png,Undrafted,Forward-Center
+Austin Rivers,25,30,1.93m,91kg,USA,10,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/203085.png,2012 R1 Pick 10,Guard
+Rudy Gobert,27,30,2.16m,117kg,France,9,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/203497.png,2013 R1 Pick 27,Center
+Karl-Anthony Towns,32,27,2.13m,112kg,USA,7,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1626157.png,2015 R1 Pick 1,Center-Forward
+Matt Ryan,37,25,1.98m,98kg,USA,1,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1630346.png,Undrafted,Forward
+Luka Garza,55,24,2.08m,110kg,USA,1,Minnesota Timberwolves,https://cdn.nba.com/headshots/nba/latest/1040x760/1630568.png,2021 R2 Pick 52,Center
+Shai Gilgeous-Alexander,2,24,1.98m,88kg,Canada,4,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1628983.png,2018 R1 Pick 11,Guard
+Josh Giddey,3,20,2.03m,98kg,Australia,1,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630581.png,2021 R1 Pick 6,Guard
+Luguentz Dort,5,23,1.93m,100kg,Canada,3,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1629652.png,Undrafted,Guard
+Jaylin Williams,6,20,2.06m,109kg,USA,0,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1631119.png,2022 R2 Pick 34,Forward
+Chet Holmgren,7,20,2.16m,88kg,USA,0,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1631096.png,2022 R1 Pick 2,Center-Forward
+Jalen Williams,8,21,1.96m,96kg,USA,0,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1631114.png,2022 R1 Pick 12,Guard-Forward
+Isaiah Joe,11,23,1.91m,75kg,USA,2,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630198.png,2020 R2 Pick 49,Guard
+Lindy Waters III,12,25,1.98m,95kg,USA,1,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630322.png,Undrafted,Forward
+Ousmane Dieng,13,19,2.06m,84kg,France,0,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1631172.png,2022 R1 Pick 11,Forward
+Aleksej Pokusevski,17,21,2.13m,95kg,Serbia,2,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630197.png,2020 R1 Pick 17,Forward
+Aaron Wiggins,21,23,1.96m,86kg,USA,1,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630598.png,2021 R2 Pick 55,Guard
+Tre Mann,23,21,1.91m,81kg,USA,1,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630544.png,2021 R1 Pick 18,Guard
+Mike Muscala,33,31,2.11m,109kg,USA,9,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/203488.png,2013 R2 Pick 44,Forward-Center
+Kenrich Williams,34,28,1.98m,95kg,USA,4,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1629026.png,Undrafted,Guard-Forward
+Jeremiah Robinson-Earl,50,22,2.03m,109kg,USA,1,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630526.png,2021 R2 Pick 32,Forward
+Darius Bazley,55,22,2.06m,98kg,USA,3,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1629647.png,2019 R1 Pick 23,Forward
+Eugene Omoruyi,97,25,1.98m,107kg,Nigeria,1,Oklahoma City Thunder,https://cdn.nba.com/headshots/nba/latest/1040x760/1630647.png,Undrafted,Forward
+Damian Lillard,0,32,1.88m,88kg,USA,10,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/203081.png,2012 R1 Pick 6,Guard
+Gary Payton II,0,30,1.88m,88kg,USA,6,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627780.png,Undrafted,Guard
+Anfernee Simons,1,23,1.91m,82kg,USA,4,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629014.png,2018 R1 Pick 24,Guard
+Trendon Watford,2,22,2.03m,108kg,USA,1,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630570.png,Undrafted,Forward
+Greg Brown III,4,21,2.01m,93kg,USA,1,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630535.png,2021 R2 Pick 43,Forward
+Keon Johnson,6,20,1.91m,84kg,USA,1,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630553.png,2021 R1 Pick 21,Guard
+Jerami Grant,9,28,2.03m,95kg,USA,8,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/203924.png,2014 R2 Pick 39,Forward
+Nassir Little,10,22,1.96m,100kg,USA,3,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629642.png,2019 R1 Pick 25,Forward-Guard
+Josh Hart,11,27,1.93m,98kg,USA,5,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628404.png,2017 R1 Pick 30,Guard
+Shaedon Sharpe,17,19,1.96m,91kg,Canada,0,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631101.png,2022 R1 Pick 7,Guard
+John Butler Jr.,21,20,2.13m,86kg,USA,0,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631219.png,Undrafted,Forward
+Drew Eubanks,24,25,2.08m,111kg,USA,4,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629234.png,Undrafted,Forward-Center
+Justise Winslow,26,26,1.98m,101kg,USA,7,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1626159.png,2015 R1 Pick 10,Forward-Guard
+Jusuf Nurkic,27,28,2.13m,132kg,Bosnia and Herzegovina,8,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/203994.png,2014 R1 Pick 16,Center
+Jabari Walker,34,20,2.01m,91kg,USA,0,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631133.png,2022 R2 Pick 57,Forward
+Ibou Badji,41,20,2.16m,109kg,Senegal,0,Portland Trail Blazers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630641.png,Undrafted,Center
+Talen Horton-Tucker,0,22,1.93m,106kg,USA,3,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1629659.png,2019 R2 Pick 46,Guard
+Jordan Clarkson,0,30,1.96m,88kg,USA,8,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/203903.png,2014 R2 Pick 46,Guard
+Collin Sexton,2,23,1.88m,86kg,USA,4,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1629012.png,2018 R1 Pick 8,Guard
+Malik Beasley,5,26,1.93m,85kg,USA,6,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1627736.png,2016 R1 Pick 19,Guard
+Nickeil Alexander-Walker,6,24,1.96m,93kg,Canada,3,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1629638.png,2019 R1 Pick 17,Guard
+Jarred Vanderbilt,8,23,2.03m,97kg,USA,4,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1629020.png,2018 R2 Pick 41,Forward
+Leandro Bolmaro,10,22,1.98m,91kg,Argentina,1,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1630195.png,2020 R1 Pick 23,Forward
+Mike Conley,11,35,1.85m,79kg,USA,15,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/201144.png,2007 R1 Pick 4,Guard
+Simone Fontecchio,16,27,2.01m,95kg,Italy,0,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1631323.png,Undrafted,Forward
+Udoka Azubuike,20,23,2.11m,122kg,Nigeria,2,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1628962.png,2020 R1 Pick 27,Center-Forward
+Rudy Gay,22,36,2.03m,113kg,USA,16,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/200752.png,2006 R1 Pick 8,Forward-Guard
+Lauri Markkanen,23,25,2.13m,109kg,Finland,5,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1628374.png,2017 R1 Pick 7,Forward-Center
+Walker Kessler,24,21,2.13m,111kg,USA,0,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1631117.png,2022 R1 Pick 22,Center
+Micah Potter,25,24,2.03m,112kg,USA,1,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1630695.png,Undrafted,Center
+Ochai Agbaji,30,22,1.96m,98kg,USA,0,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1630534.png,2022 R1 Pick 14,Guard
+Johnny Juzang,33,21,1.98m,95kg,USA,0,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/1630548.png,Undrafted,Guard
+Kelly Olynyk,41,31,2.11m,109kg,Canada,9,Utah Jazz,https://cdn.nba.com/headshots/nba/latest/1040x760/203482.png,2013 R1 Pick 13,Forward-Center
+Jonathan Kuminga,0,20,2.01m,102kg,Democratic Republic of the Congo,1,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630228.png,2021 R1 Pick 7,Forward
+Donte DiVincenzo,0,25,1.93m,92kg,USA,4,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1628978.png,2018 R1 Pick 17,Guard
+JaMychal Green,1,32,2.06m,103kg,USA,8,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/203210.png,Undrafted,Forward-Center
+Ryan Rollins,2,20,1.91m,82kg,USA,0,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1631157.png,2022 R2 Pick 44,Guard
+Jordan Poole,3,23,1.93m,88kg,USA,3,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1629673.png,2019 R1 Pick 28,Guard
+Moses Moody,4,20,1.96m,96kg,USA,1,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630541.png,2021 R1 Pick 14,Guard
+Kevon Looney,5,26,2.06m,101kg,USA,7,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1626172.png,2015 R1 Pick 30,Forward
+Patrick Baldwin Jr.,7,20,2.06m,100kg,USA,0,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1631116.png,2022 R1 Pick 28,Forward
+Andre Iguodala,9,38,1.98m,98kg,USA,18,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/2738.png,2004 R1 Pick 9,Guard-Forward
+Ty Jerome,10,25,1.96m,88kg,USA,3,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1629660.png,2019 R1 Pick 24,Guard-Forward
+Klay Thompson,11,32,1.98m,100kg,USA,9,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/202691.png,2011 R1 Pick 11,Guard
+Andrew Wiggins,22,27,2.01m,89kg,Canada,8,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/203952.png,2014 R1 Pick 1,Forward
+Draymond Green,23,32,1.98m,104kg,USA,10,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/203110.png,2012 R2 Pick 35,Forward
+Stephen Curry,30,34,1.88m,84kg,USA,13,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/201939.png,2009 R1 Pick 7,Guard
+James Wiseman,33,21,2.13m,109kg,USA,1,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630164.png,2020 R1 Pick 2,Center
+Anthony Lamb,40,24,1.98m,103kg,USA,2,Golden State Warriors,https://cdn.nba.com/headshots/nba/latest/1040x760/1630237.png,Undrafted,Forward
+Reggie Jackson,1,32,1.88m,94kg,USA,11,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/202704.png,2011 R1 Pick 24,Guard
+Kawhi Leonard,2,31,2.01m,102kg,USA,10,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/202695.png,2011 R1 Pick 15,Forward
+Brandon Boston Jr.,4,21,1.98m,85kg,USA,1,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630527.png,2021 R2 Pick 51,Guard
+Luke Kennard,5,26,1.96m,93kg,USA,5,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628379.png,2017 R1 Pick 12,Guard
+Moses Brown,6,23,2.18m,111kg,USA,3,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629650.png,Undrafted,Center
+Amir Coffey,7,25,2.01m,95kg,USA,3,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629599.png,Undrafted,Guard-Forward
+Marcus Morris Sr.,8,33,2.03m,99kg,USA,11,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/202694.png,2011 R1 Pick 14,Forward
+John Wall,11,32,1.91m,95kg,USA,10,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/202322.png,2010 R1 Pick 1,Guard
+Paul George,13,32,2.03m,100kg,USA,12,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/202331.png,2010 R1 Pick 10,Forward
+Terance Mann,14,26,1.96m,98kg,USA,3,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629611.png,2019 R2 Pick 48,Guard-Forward
+Jason Preston,17,23,1.91m,82kg,USA,0,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630554.png,2021 R2 Pick 33,Guard
+Robert Covington,23,32,2.01m,95kg,USA,9,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/203496.png,Undrafted,Forward
+Norman Powell,24,29,1.93m,98kg,USA,7,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1626181.png,2015 R2 Pick 46,Guard
+Moussa Diabate,25,20,2.08m,95kg,France,0,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631217.png,2022 R2 Pick 43,Forward
+Nicolas Batum,33,34,2.03m,104kg,France,14,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/201587.png,2008 R1 Pick 25,Guard-Forward
+Ivica Zubac,40,25,2.13m,109kg,Croatia,6,LA Clippers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627826.png,2016 R2 Pick 32,Center
+Russell Westbrook,0,34,1.91m,91kg,USA,14,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/201566.png,2008 R1 Pick 4,Guard
+Anthony Davis,3,29,2.08m,115kg,USA,10,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/203076.png,2012 R1 Pick 1,Forward-Center
+Lonnie Walker IV,4,24,1.93m,93kg,USA,4,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629022.png,2018 R1 Pick 18,Guard-Forward
+LeBron James,6,38,2.06m,113kg,USA,19,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/2544.png,2003 R1 Pick 1,Forward
+Troy Brown Jr.,7,23,2.01m,98kg,USA,4,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628972.png,2018 R1 Pick 15,Guard-Forward
+Max Christie,10,19,1.96m,86kg,USA,0,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631108.png,2022 R2 Pick 35,Guard
+Kendrick Nunn,12,27,1.91m,86kg,USA,2,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629134.png,Undrafted,Guard
+Scotty Pippen Jr.,14,22,1.85m,77kg,USA,0,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630590.png,Undrafted,Guard
+Austin Reaves,15,24,1.96m,89kg,USA,1,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1630559.png,Undrafted,Guard
+Dennis Schroder,17,29,1.85m,78kg,Germany,9,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/203471.png,2013 R1 Pick 17,Guard
+Cole Swider,20,23,2.06m,100kg,USA,0,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1631306.png,Undrafted,Forward
+Patrick Beverley,21,34,1.88m,82kg,USA,10,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/201976.png,2009 R2 Pick 42,Guard
+Damian Jones,30,27,2.11m,111kg,USA,6,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1627745.png,2016 R1 Pick 30,Center
+Thomas Bryant,31,25,2.08m,112kg,USA,5,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1628418.png,2017 R2 Pick 42,Center-Forward
+Wenyen Gabriel,35,25,2.06m,93kg,South Sudan,3,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629117.png,Undrafted,Forward
+Juan Toscano-Anderson,95,29,1.98m,95kg,USA,3,Los Angeles Lakers,https://cdn.nba.com/headshots/nba/latest/1040x760/1629308.png,Undrafted,Forward
+Torrey Craig,0,32,2.01m,100kg,USA,5,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1628470.png,Undrafted,Forward
+Devin Booker,1,26,1.96m,93kg,USA,7,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1626164.png,2015 R1 Pick 13,Guard
+Josh Okogie,2,24,1.93m,97kg,Nigeria,4,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1629006.png,2018 R1 Pick 20,Guard
+Chris Paul,3,37,1.83m,79kg,USA,17,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/101108.png,2005 R1 Pick 4,Guard
+Duane Washington Jr.,4,22,1.88m,89kg,Germany,1,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1630613.png,Undrafted,Guard
+Damion Lee,10,30,1.96m,95kg,USA,5,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1627814.png,Undrafted,Guard-Forward
+Jock Landale,11,27,2.11m,116kg,Australia,1,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1629111.png,Undrafted,Center
+Ish Wainright,12,28,1.96m,113kg,USA,1,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1630688.png,Undrafted,Forward
+Landry Shamet,14,25,1.93m,86kg,USA,4,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1629013.png,2018 R1 Pick 26,Guard
+Cameron Payne,15,28,1.85m,83kg,USA,7,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1626166.png,2015 R1 Pick 14,Guard
+Bismack Biyombo,18,30,2.03m,116kg,Democratic Republic of the Congo,11,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/202687.png,2011 R1 Pick 7,Center
+Dario Saric,20,28,2.08m,102kg,Croatia,5,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/203967.png,2014 R1 Pick 12,Forward-Center
+Deandre Ayton,22,24,2.13m,113kg,Bahamas,4,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1629028.png,2018 R1 Pick 1,Center
+Cameron Johnson,23,26,2.03m,95kg,USA,3,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1629661.png,2019 R1 Pick 11,Forward
+Mikal Bridges,25,26,1.98m,95kg,USA,4,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/1628969.png,2018 R1 Pick 10,Forward
+Jae Crowder,99,32,1.98m,107kg,USA,10,Phoenix Suns,https://cdn.nba.com/headshots/nba/latest/1040x760/203109.png,2012 R2 Pick 34,Forward
+Malik Monk,0,24,1.91m,91kg,USA,5,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1628370.png,2017 R1 Pick 11,Guard
+Terence Davis,3,25,1.93m,91kg,USA,3,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1629056.png,Undrafted,Guard
+De'Aaron Fox,5,25,1.91m,84kg,USA,5,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1628368.png,2017 R1 Pick 5,Guard
+Chimezie Metu,7,25,2.06m,102kg,USA,4,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1629002.png,2018 R2 Pick 49,Forward-Center
+Matthew Dellavedova,8,32,1.91m,91kg,Australia,8,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/203521.png,Undrafted,Guard
+Kevin Huerter,9,24,2.01m,90kg,USA,4,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1628989.png,2018 R1 Pick 19,Guard-Forward
+Domantas Sabonis,10,26,2.16m,109kg,Lithuania,6,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1627734.png,2016 R1 Pick 11,Forward-Center
+Keegan Murray,13,22,2.03m,102kg,USA,0,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1631099.png,2022 R1 Pick 4,Forward
+Davion Mitchell,15,24,1.83m,92kg,USA,1,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1630558.png,2021 R1 Pick 9,Guard
+Chima Moneke,19,27,1.96m,101kg,Nigeria,0,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1631320.png,Undrafted,Forward
+Richaun Holmes,22,29,2.03m,107kg,USA,7,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1626158.png,2015 R2 Pick 37,Forward
+Keon Ellis,23,22,1.91m,79kg,USA,0,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1631165.png,Undrafted,Guard
+Alex Len,25,29,2.18m,113kg,Ukraine,9,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/203458.png,2013 R1 Pick 5,Center
+KZ Okpala,30,23,2.03m,98kg,USA,3,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1629644.png,2019 R2 Pick 32,Forward-Guard
+Harrison Barnes,40,30,2.03m,102kg,USA,10,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/203084.png,2012 R1 Pick 7,Forward
+Trey Lyles,41,27,2.06m,106kg,Canada,7,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1626168.png,2015 R1 Pick 12,Forward
+Neemias Queta,88,23,2.13m,112kg,Portugal,1,Sacramento Kings,https://cdn.nba.com/headshots/nba/latest/1040x760/1629674.png,2021 R2 Pick 39,Center
+JaVale McGee,0,34,2.13m,122kg,USA,14,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/201580.png,2008 R1 Pick 18,Center-Forward
+A.J. Lawson,0,22,1.98m,81kg,Canada,0,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630639.png,Undrafted,Guard
+Theo Pinson,1,27,2.01m,96kg,USA,4,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629033.png,Undrafted,Guard-Forward
+Jaden Hardy,3,20,1.91m,90kg,USA,0,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630702.png,2022 R2 Pick 37,Guard
+Dwight Powell,7,31,2.08m,109kg,Canada,8,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/203939.png,2014 R2 Pick 45,Forward-Center
+Josh Green,8,22,2.01m,91kg,Australia,2,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630182.png,2020 R1 Pick 18,Guard
+Kemba Walker,8,32,1.83m,83kg,USA,11,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/202689.png,2011 R1 Pick 9,Guard
+Dorian Finney-Smith,10,29,2.01m,100kg,USA,6,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1627827.png,Undrafted,Forward
+Tim Hardaway Jr.,11,30,1.96m,93kg,USA,9,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/203501.png,2013 R1 Pick 24,Guard-Forward
+Frank Ntilikina,21,24,1.93m,91kg,France,5,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628373.png,2017 R1 Pick 8,Guard
+Reggie Bullock,25,31,1.98m,93kg,USA,9,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/203493.png,2013 R1 Pick 25,Guard-Forward
+McKinley Wright IV,25,24,1.80m,87kg,USA,1,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1630593.png,Undrafted,Guard
+Spencer Dinwiddie,26,29,1.96m,98kg,USA,8,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/203915.png,2014 R2 Pick 38,Guard
+Christian Wood,35,27,2.06m,97kg,USA,6,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1626174.png,Undrafted,Forward
+Maxi Kleber,42,30,2.08m,109kg,Germany,5,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1628467.png,Undrafted,Forward
+Davis Bertans,44,30,2.08m,102kg,Latvia,6,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/202722.png,2011 R2 Pick 42,Forward
+Luka Doncic,77,23,2.01m,104kg,Slovenia,4,Dallas Mavericks,https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png,2018 R1 Pick 3,Forward-Guard
+TyTy Washington Jr.,0,21,1.91m,88kg,USA,0,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631102.png,2022 R1 Pick 29,Guard
+Jabari Smith Jr.,1,19,2.11m,100kg,USA,0,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631095.png,2022 R1 Pick 3,Forward
+Kevin Porter Jr.,3,22,1.93m,92kg,USA,3,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629645.png,2019 R1 Pick 30,Guard-Forward
+Jalen Green,4,20,1.93m,84kg,USA,1,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630224.png,2021 R1 Pick 2,Guard
+Darius Days,5,23,2.01m,111kg,USA,0,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630620.png,Undrafted,Forward
+Kenyon Martin Jr.,6,21,2.01m,98kg,USA,2,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630231.png,2020 R2 Pick 52,Forward
+Jae'Sean Tate,8,27,1.96m,104kg,USA,2,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630256.png,Undrafted,Forward
+Josh Christopher,9,21,1.93m,98kg,USA,1,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630528.png,2021 R1 Pick 24,Guard
+Eric Gordon,10,34,1.91m,98kg,USA,14,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/201569.png,2008 R1 Pick 7,Guard
+Trevor Hudgins,12,23,1.83m,82kg,USA,0,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631309.png,Undrafted,Guard
+Daishen Nix,15,20,1.93m,103kg,USA,1,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630227.png,Undrafted,Guard
+Usman Garuba,16,20,2.03m,104kg,Spain,1,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630586.png,2021 R1 Pick 23,Forward
+Tari Eason,17,21,2.03m,98kg,USA,0,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1631106.png,2022 R1 Pick 17,Forward
+Bruno Fernando,20,24,2.08m,109kg,Angola,3,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1628981.png,2019 R2 Pick 34,Forward-Center
+Garrison Mathews,25,26,1.98m,98kg,USA,3,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1629726.png,Undrafted,Guard
+Alperen Sengun,28,20,2.11m,110kg,Turkey,1,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1630578.png,2021 R1 Pick 16,Center
+Boban Marjanovic,51,34,2.24m,132kg,Serbia,7,Houston Rockets,https://cdn.nba.com/headshots/nba/latest/1040x760/1626246.png,Undrafted,Center
+Kennedy Chandler,1,20,1.80m,77kg,USA,0,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1631113.png,2022 R2 Pick 38,Guard
+Xavier Tillman,2,23,2.01m,111kg,USA,2,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1630214.png,2020 R2 Pick 35,Forward
+Jake LaRavia,3,21,2.01m,107kg,USA,0,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1631222.png,2022 R1 Pick 19,Forward
+Steven Adams,4,29,2.11m,120kg,New Zealand,9,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/203500.png,2013 R1 Pick 12,Center
+Vince Williams Jr.,5,22,1.93m,93kg,USA,0,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1631246.png,2022 R2 Pick 47,Guard
+Kenneth Lofton Jr.,6,20,1.98m,125kg,USA,0,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1631254.png,Undrafted,Forward
+Santi Aldama,7,21,2.13m,98kg,Spain,1,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1630583.png,2021 R1 Pick 30,Forward-Center
+Ziaire Williams,8,21,2.06m,84kg,USA,1,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1630533.png,2021 R1 Pick 10,Forward
+Ja Morant,12,23,1.88m,79kg,USA,3,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1629630.png,2019 R1 Pick 2,Guard
+Jaren Jackson Jr.,13,23,2.08m,110kg,USA,4,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1628991.png,2018 R1 Pick 4,Forward-Center
+Danny Green,14,35,1.98m,98kg,USA,13,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/201980.png,2009 R2 Pick 46,Guard
+Brandon Clarke,15,26,2.03m,98kg,Canada,3,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1629634.png,2019 R1 Pick 21,Forward
+Tyus Jones,21,26,1.88m,89kg,USA,7,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1626145.png,2015 R1 Pick 24,Guard
+Desmond Bane,22,24,1.96m,98kg,USA,2,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1630217.png,2020 R1 Pick 30,Guard
+Dillon Brooks,24,26,1.98m,102kg,Canada,5,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1628415.png,2017 R2 Pick 45,Guard-Forward
+David Roddy,27,21,1.93m,116kg,USA,0,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1631223.png,2022 R1 Pick 23,Forward
+John Konchar,46,26,1.96m,95kg,USA,3,Memphis Grizzlies,https://cdn.nba.com/headshots/nba/latest/1040x760/1629723.png,Undrafted,Guard
+E.J. Liddell,,22,1.98m,109kg,USA,0,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630604.png,2022 R2 Pick 41,Forward
+Dereon Seabron,0,22,1.96m,82kg,USA,0,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1631220.png,Undrafted,Guard
+Zion Williamson,1,22,1.98m,129kg,USA,2,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1629627.png,2019 R1 Pick 1,Forward
+CJ McCollum,3,31,1.91m,86kg,USA,9,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/203468.png,2013 R1 Pick 10,Guard
+Devonte' Graham,4,27,1.85m,88kg,USA,4,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1628984.png,2018 R2 Pick 34,Guard
+Herbert Jones,5,24,2.01m,93kg,USA,1,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630529.png,2021 R2 Pick 35,Forward
+Naji Marshall,8,24,2.01m,100kg,USA,2,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630230.png,Undrafted,Forward
+Willy Hernangomez,9,28,2.11m,113kg,Spain,6,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1626195.png,2015 R2 Pick 35,Center-Forward
+Jaxson Hayes,10,22,2.13m,100kg,USA,3,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1629637.png,2019 R1 Pick 8,Center-Forward
+Dyson Daniels,11,19,2.01m,90kg,Australia,0,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630700.png,2022 R1 Pick 8,Guard
+Kira Lewis Jr.,13,21,1.85m,77kg,USA,2,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630184.png,2020 R1 Pick 13,Guard
+Brandon Ingram,14,25,2.03m,86kg,USA,6,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1627742.png,2016 R1 Pick 2,Forward
+Jose Alvarado,15,24,1.83m,81kg,USA,1,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630631.png,Undrafted,Guard
+Jonas Valanciunas,17,30,2.11m,120kg,Lithuania,10,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/202685.png,2011 R1 Pick 5,Center
+Larry Nance Jr.,22,29,2.03m,111kg,USA,7,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1626204.png,2015 R1 Pick 27,Forward-Center
+Trey Murphy III,25,22,2.03m,93kg,USA,1,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/1630530.png,2021 R1 Pick 17,Forward
+Garrett Temple,41,36,1.98m,88kg,USA,12,New Orleans Pelicans,https://cdn.nba.com/headshots/nba/latest/1040x760/202066.png,Undrafted,Guard-Forward
+Keldon Johnson,3,23,1.96m,100kg,USA,3,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1629640.png,2019 R1 Pick 29,Forward-Guard
+Josh Richardson,7,29,1.98m,91kg,USA,7,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1626196.png,2015 R2 Pick 40,Guard
+Jeremy Sochan,10,19,2.03m,104kg,Poland,0,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1631110.png,2022 R1 Pick 9,Forward
+Blake Wesley,14,19,1.93m,84kg,USA,0,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1631104.png,2022 R1 Pick 25,Guard
+Doug McDermott,17,30,1.98m,102kg,USA,8,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/203926.png,2014 R1 Pick 11,Forward
+Isaiah Roby,18,24,2.03m,104kg,USA,3,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1629676.png,2019 R2 Pick 45,Forward
+Malaki Branham,22,19,1.93m,82kg,USA,0,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1631103.png,2022 R1 Pick 20,Forward
+Zach Collins,23,25,2.11m,113kg,USA,4,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1628380.png,2017 R1 Pick 10,Forward-Center
+Devin Vassell,24,22,1.96m,91kg,USA,2,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1630170.png,2020 R1 Pick 11,Guard-Forward
+Jakob Poeltl,25,27,2.16m,111kg,Austria,6,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1627751.png,2016 R1 Pick 9,Center
+Dominick Barlow,26,19,2.06m,98kg,USA,0,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1631230.png,Undrafted,Forward
+Charles Bassey,28,22,2.06m,104kg,Nigeria,1,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1629646.png,2021 R2 Pick 53,Center-Forward
+Keita Bates-Diop,31,26,2.03m,104kg,USA,4,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1628966.png,2018 R2 Pick 48,Forward
+Tre Jones,33,22,1.85m,84kg,USA,2,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1630200.png,2020 R2 Pick 41,Guard
+Stanley Johnson,34,26,1.98m,110kg,USA,7,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1626169.png,2015 R1 Pick 8,Forward-Guard
+Romeo Langford,35,23,1.96m,98kg,USA,3,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/1629641.png,2019 R1 Pick 14,Guard-Forward
+Gorgui Dieng,41,32,2.08m,112kg,Senegal,9,San Antonio Spurs,https://cdn.nba.com/headshots/nba/latest/1040x760/203476.png,2013 R1 Pick 21,Center

@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1>Tabla clasificatoria</h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{title}}</title>
+{% endblock %}
+
+{% block contenido %}
+	{% for conf in conferencias %}
+	<div class="conference">
+		<img src={{conf.img}}>
+		<h4>Conferencia {{conf.nombre}}</h4>
+		<table class="table table-striped" id="clasificacion">
+			{% if conf.nombre == "Este" %}
+			<thead class="thead_east">
+				<tr>
+					<th>Posición</th>
+					<th>Equipo</th>
+					<th>Victorias</th>
+					<th>Derrotas</th>
+				</tr>
+			</thead>
+			{% endif %}
+			{% if conf.nombre == "Oeste" %}
+			<thead class="thead_west">
+				<tr>
+					<th>Posición</th>
+					<th>Equipo</th>
+					<th>Victorias</th>
+					<th>Derrotas</th>
+				</tr>
+			</thead>
+			{% endif %}
+			<tbody>
+				{% for equipo in este %}
+					<tr>
+						{% if equipo.conferencia.nombre == conf.nombre %}
+				  			<td>{{forloop.counter}}</td>
+				  			<td><img src={{equipo.escudo}} width="20" height="20"><a href='/equipo/{{equipo.id}}'>{{equipo}}</a></img></td>
+				  			<td>{{equipo.wins}}</td>
+				  			<td>{{equipo.loses}}</td>
+						{% endif %}
+					</tr>
+				{% endfor %}
+					
+				{% for equipo in oeste %}
+					<tr>
+						{% if equipo.conferencia.nombre == conf.nombre %}
+				  			<td>{{forloop.counter}}</td>
+				  			<td><img src={{equipo.escudo}} width="20" height="20"><a href='/equipo/{{equipo.id}}'>{{equipo}}</a></img></td>
+				  			<td>{{equipo.wins}}</td>
+				  			<td>{{equipo.loses}}</td>
+						{% endif %}
+					</tr>
+				{% endfor %}
+			</tbody>
+		</table>
+	</div>
+	{% endfor %}
+{% endblock %}

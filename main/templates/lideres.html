@@ -1,0 +1,34 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1>Líderes estadísticos </h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{title}}</title>
+{% endblock %}
+
+{% block contenido %}
+    
+	{% for key,value in res.items %}
+	<div class="season_leader">
+		<h2>{{key}}</h2>
+			<table class="table table-striped" id="leader">
+				<thead>
+					<th>#</th>
+					<th>Jugador</th>
+					<th>Promedio</th>
+				</thead>
+				<tbody>
+					{% for jugador,stat in value %}
+						<tr>
+			  				<td><strong>{{forloop.counter}}</strong></td>
+			  				<td><img src={{jugador.imagen}} width=20%><a href='/jugador/{{jugador.id}}'>{{jugador.nombre}}</a></td>
+			  				<td>{{stat}}</td>
+						<tr>
+					{% endfor %}
+				</tbody>
+			</table>
+	</div>
+	{% endfor %}
+	
+{% endblock %}

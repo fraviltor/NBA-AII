@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1>Perfil de jugador </h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{jugador.nombre}}</title>
+{% endblock %}
+
+{% block contenido %}
+    <div class="card mb-3" style="max-width: 100%;">
+	  	<div class="row g-0">
+		    <div class="col-md-4">
+		      <img src={{jugador.imagen}} class="img-fluid rounded-start" alt="...">
+		    </div>
+		    <div class="col-md-8">
+		      <div class="card-body">
+		        <h2 class="card-title">{{jugador.nombre}} <a href="/equipo/{{jugador.equipo.id}}"><img src={{jugador.equipo.escudo}} width=8%></a></h2>
+		        <h5 class="details">#{{jugador.dorsal}} | {{jugador.posicion}}</h5>
+		        <dd class="card-text"><strong>Edad:</strong> {{jugador.edad}}</dd>
+		        <dd class="card-text"><strong>Años pro:</strong> {{jugador.exp}}</dd>
+		        <dd class="card-text"><strong>Altura:</strong> {{jugador.altura}}</dd>
+		        <dd class="card-text"><strong>Peso:</strong> {{jugador.peso}}</dd>
+		        <dd class="card-text"><strong>Nacionalidad:</strong> <img src={{jugador.pais.bandera}}></dd>
+		        <small class="text-muted">{{jugador.posicion}} de los {{jugador.equipo.nombre}}</small>
+		      </div>
+		    </div>
+  		</div>
+	</div>
+{% endblock %}

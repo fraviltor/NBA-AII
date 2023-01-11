@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1> Carga </h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{title}}</title>
+{% endblock %}
+
+  {% block contenido %}
+    <h6>{{inf}}</h6>
+  {% endblock %}

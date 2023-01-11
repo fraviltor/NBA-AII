@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1>Perfil de equipo</h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{equipo.nombre}}</title>
+{% endblock %}
+
+{% block contenido %}
+	
+	<div class="card mb-3" style="max-width: 100%;">
+	  	<div class="row g-0">
+		    <div class="col-md-4">
+		      <img src={{equipo.escudo}} class="img-fluid rounded-start" alt="...">
+		    </div>
+		    <div class="col-md-8">
+		      <div class="card-body">
+		        <h2 class="card-title">{{equipo.nombre}}</h2>
+		        <h5 class="details">Récord actual: <a style="color:#1FC845">{{equipo.wins}}V</a> <a style="color:#CB1B1B">{{equipo.loses}}D</a></h5>
+		        <dd class="card-text"><img class="city-logo" src='{% static "images/city.png" %}' alt=""><strong> Ciudad:</strong> {{equipo.lugar}}</dd>
+		        <dd class="card-text"><img class="cancha-logo" src='{% static "images/cancha.png" %}' alt=""><strong> Estadio:</strong> {{equipo.estadio}}</dd>
+		        <dd class="card-text"><img class="playoffs_min_logo" src='{% static "images/playoffs-logo.webp" %}' alt=""><strong> Veces en Playoffs:</strong> {{equipo.playoffs}}</dd>
+		        <dd class="card-text"><img class="nba_trophy" src='{% static "images/larryobrien.png" %}' alt=""><strong> Campeonatos NBA:</strong> {{equipo.campeonatos}}</dd>
+		        <small class="text-muted"><strong>Títulos Conferencia ({{equipo.conferencia.nombre}}):</strong> {{equipo.titulos_conferencia}} | <strong>Títulos División ({{equipo.division.nombre}}):</strong> {{equipo.titulos_division}}</small>
+		      </div>
+		    </div>
+  		</div>
+	</div>
+	
+	<h2>Plantilla de los {{equipo.nombre}} 2022-23:</h2>
+	<table class="table table-striped" id="plantilla">
+		<thead>
+			<tr>
+				<th>Dorsal</th>
+				<th>Jugador</th>
+				<th>Posición</th>
+				<th>Altura</th>
+				<th>Edad</th>
+				<th>País</th>
+			</tr>
+		</thead>
+
+		<tbody>
+			{% for jugador in plantilla %}
+	  			<tr>
+	  				<td>#{{jugador.dorsal}}</td>
+	  				<td><img src={{jugador.imagen}} width=20%><a href='/jugador/{{jugador.id}}'>{{jugador.nombre}}</a></td>
+	  				<td>{{jugador.posicion}}</td>
+	  				<td>{{jugador.altura}}</td>
+	  				<td>{{jugador.edad}}</td>
+	  				<td><img src={{jugador.pais.bandera}}></td>
+				<tr>
+			{% endfor %}
+			</tbody>
+		</table>
+{% endblock %}

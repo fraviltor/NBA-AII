@@ -1,0 +1,135 @@
+h1 {
+	margin-left:10px;
+	margin-top: 10px;
+}
+
+h6 {
+	margin-left:10px;
+	font-size: 16px;
+}
+
+.conference { 
+	margin:auto;
+	padding:20px;
+	float:left;
+	width:50%;
+}
+
+.conference > img {
+	width:16%;
+	display:block;
+	margin:auto;
+}
+
+.conference > h4 {
+	text-align:center;
+}
+
+.division {
+	float: left;
+	width:33%;
+	text-align:center;
+}
+
+.equipo {
+	padding:5px;
+	font-size: 14px;
+}
+
+.equipo img {
+	width:30px;
+	height:30px;
+}
+
+.clasificacion {
+	background-color: white;
+	text-align:left;
+	float: left;
+	width: 100%;
+}
+
+.thead_east{
+	background-color: #2596be;
+	border-bottom: solid 5px #222d31;
+	color: white;
+}
+
+.thead_west{
+	background-color: #ed174b;
+	border-bottom: solid 5px #470716;
+	color: white;
+}
+
+.tr_teams{
+	border-bottom: solid 1px #ddd;
+}
+
+#clasificacion img {
+	width:40px;
+	height:40px;
+}
+
+a {
+	text-decoration:none;
+}
+
+.nba_trophy {
+	width:4%;
+}
+
+.playoffs_min_logo {
+	width:4%;
+}
+
+.city-logo {
+	width:4%;
+}
+
+.cancha-logo {
+	width:4%;
+}
+
+.plantilla {
+	background-color: white;
+	text-align:left;
+	float: left;
+	width: 80%;
+    table-layout:fixed;
+}
+
+#plantilla td {
+    width: 30px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.season_leader {
+	width:33%;
+	padding:20px;
+	display: inline-block;
+	margin:auto;
+}
+
+.season_leader > h2 {
+	font-size: 24px;
+}
+
+.form_busqueda {
+	margin-left:10px;
+	margin-top: 10px;
+}
+
+#search_results {
+	margin-left:10px;
+	margin-right:10px;
+	margin-top: 10px;
+}
+
+#indv_res {
+	margin-top: 10px;
+}
+
+#pagina {
+	margin-top:20px;
+	float:right;
+}

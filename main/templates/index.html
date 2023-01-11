@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1> NBA 2022-23 </h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{title}}</title>
+{% endblock %}
+
+  {% block contenido %}
+	<h6>{{inf}} </h6>
+	
+	{% for conf in conferencias %}
+	<div class="conference">
+		<img src={{conf.img}}>
+		<h4>Conferencia {{conf.nombre}}</h4>
+			{% for div,equipos in dicc.items %}
+				{% if div.conferencia.nombre == conf.nombre %}
+					<div class="division">
+						<strong>{{div.nombre}}</strong>
+						<div class="equipo">
+							{% for equipo in equipos %}
+								<p><img src={{equipo.escudo}}><a href='equipo/{{equipo.id}}'>{{equipo}}</a></img></p>
+							{% endfor %}
+						</div>
+					</div>
+				{% endif %}
+			{% endfor %}
+	</div>
+	{% endfor %}
+	
+ {% endblock %}

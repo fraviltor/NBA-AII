@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block encabezado %}
+<h1> Indexado </h1>
+<link type="text/css" href='{% static "css/index.css" %}' rel='stylesheet'/>
+<title>{{title}}</title>
+{% endblock %}
+
+ {% block contenido %}
+  <h6>Se han indexado {{indexed_teams}} equipos y {{indexed_players}} jugadores en Whoosh.</h6>
+ {% endblock %}

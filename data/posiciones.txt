@@ -1,0 +1,7 @@
+Center-Forward,Pivot-Ala Pivot
+Forward,Alero
+Center,Pivot
+Guard,Base
+Guard-Forward,Base-Escolta
+Forward-Center,Alero-Ala Pivot
+Forward-Guard,Alero-Escolta
